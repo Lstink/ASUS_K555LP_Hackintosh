@@ -1,0 +1,2 @@
+# ASUS_K555LP_Hackintosh
+华硕K555LP5200U 黑苹果EFI
